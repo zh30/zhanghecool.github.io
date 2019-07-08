@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: hertzZhang
+title: zhanghe
 repo: hertzZhang/hertzZhang.github.io
-email: zhanghelook@outlook.com
+email: zhangheorg@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   生活并无完美，与其让生活带来更多的沮丧与抱怨，不如坚持着一份信念，相信通过努力可以让生活变得更好。
 excerpt_separator: true
