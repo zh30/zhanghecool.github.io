@@ -4,7 +4,3 @@
 
 layout: home
 ---
-
-{% for post in paginator.posts %}
-  {% include post-card.html %}
-{% endfor %}
