@@ -66,7 +66,7 @@ defaults:
 # Build settings
 markdown: kramdown
 theme: minima
-remote_theme: hertzZhang/yoyoyo
+remote_theme: yoyoyo
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
