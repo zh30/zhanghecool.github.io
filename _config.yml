@@ -1,86 +1,64 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: zhanghe
-repo: hertzZhang/hertzZhang.github.io
+# Site/SEO settings
 email: zhangheorg@outlook.com
-description: >- # this means to ignore newlines until "baseurl:"
+baseurl: "/"
+permalink: /:year/:month/:day/:title/
+google_analytics:
+
+name: ZhangHe
+title: ZhangHe
+description: >
   生活并无完美，与其让生活带来更多的沮丧与抱怨，不如坚持着一份信念，相信通过努力可以让生活变得更好。
-excerpt_separator: true
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://zhanghe.org" # the base hostname & protocol for your site, e.g. http://example.com
-lang: zh
-paginate: 10
-paginate_path: "/page/:num"
+url: https://zhanghe.org
 twitter_username: hertzZhang
-github_username:  hertzZhang
-collections:
-  authors:
-    output: true
-  staff_members:
-    output: true
-    # people: true
+default_img: /assets/images/wxmp.png
+social:
+  - name: twitter
+    url: https://twitter.com/hertzZhang
+  - name: linkedin
+    url: https://www.linkedin.com/in/hertzzhang/
+  - name: github
+    url: https://github.com/hertzZhang
+  - name: codepen
+    url: https://codepen.io/zhanghe/
 
+# Contact settings
+contact_img: /assets/images/wxmp.png
+formcarry: https://formcarry.com/s/5TGvj16vtfd
+
+# Disqus settings
+disqus: zhanghe
+
+# MailChimp settings
+mailchimp_action: https://zhanghe.us20.list-manage.com/subscribe/post?u=5b1e870a92bad64b8c102126a&amp;id=8842806757
+mailchimp_input: b_5b1e870a92bad64b8c102126a_8842806757
+
+# Author settings
 author:
-  twitter: hertzZhang
+  - name: 张赫(ZhangHe)
+    bio: Visual China Group Front End Engineer. Like cooking, photography, travel.
+    url: https://zhanghe.org
 
-baidu:
-  appid: 1612867930592980
-
-ga:
-  userid: UA-125234893-1
-
-twitter:
-  username: hertzZhang
-  card: summary_large_image
-  site: '@hertzZhang'
-
-defaults:
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "author"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
-
-# Build settings
-markdown: kramdown
-theme: minima
-remote_theme: hertzZhang/yoyoyo
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Pagination settings
+pagination:
+  enabled: true
+  debug: false
+  per_page: 12
+  permalink: "/page/:num/"
+  title: ":title"
+  limit: 0
+  sort_field: "date"
+  sort_reverse: true
+autopages:
+  enabled: true
+  categories:
+    enabled: false
+  collections:
+    enabled: false
+  tags:
+    layouts:
+      - "tag.html"
+    title: "ZhangHe"
+    permalink: "/tag/:tag"
+    slugify:
+      mode: raw
+      cased: true
