@@ -1,11 +1,13 @@
 ---
 layout: post
-author: hertz
-categories: [Blog, Tutorial]
-tags: [vscode, nvm, node-version]
-excerpt: Initialize website information
-previewimg: /yoyoyo/assets/images/wxmp.png
-image: /yoyoyo/assets/images/wxmp.png
+title: "VS Code 在NVM下的Nodejs版本控制问题"
+date: 2019-05-05
+description: 
+image: /assets/images/wxmp.jpg
+author: zhanghe
+tags: 
+  - Node
+  - NVM
 ---
 # VS Code 在NVM下的Nodejs版本控制问题
 解决办法如下：  

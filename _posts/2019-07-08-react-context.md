@@ -1,14 +1,14 @@
 ---
 layout: post
-author: hertz
-categories: [Blog, Tutorial, RUST]
-tags: [hot, init]
-excerpt: Cargo
-previewimg: /yoyoyo/assets/images/wxmp.png
-image: /yoyoyo/assets/images/wxmp.png
-twitter:
-  username: 123333
-  card: summary_large_image
+title: "React Context Tutorial"
+date: 2019-07-08
+description: 
+image: /assets/images/wxmp.jpg
+author: zhanghe
+tags: 
+  - React
+  - Context
+  - Tutorial
 ---
 
 ## React Context Tutorial

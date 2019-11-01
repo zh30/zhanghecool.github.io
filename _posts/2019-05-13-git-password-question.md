@@ -1,11 +1,13 @@
 ---
 layout: post
-author: hertz
-categories: [Blog, Tutorial]
-tags: [yarn, nvm, node]
-excerpt: Initialize website information
-previewimg: /yoyoyo/assets/images/wxmp.png
-image: /yoyoyo/assets/images/wxmp.png
+title: "解决git操作时强制输入用户名密码的问题"
+date: 2019-05-13
+description: 
+image: /assets/images/wxmp.jpg
+author: zhanghe
+tags: 
+  - Git
+  - PW
 ---
 # 解决git操作时强制输入用户名密码的问题
 - 首先进入自己项目的根目录

@@ -1,11 +1,13 @@
 ---
 layout: post
-author: hertz
-categories: [Blog, Tutorial]
-tags: [hot, init]
-excerpt: Initialize website information
-previewimg: /yoyoyo/assets/images/wxmp.png
-image: /yoyoyo/assets/images/wxmp.png
+title: "函数命名"
+date: 2019-03-08
+description: 
+image: /assets/images/wxmp.jpg
+author: zhanghe
+tags: 
+  - Hot
+  - Init
 ---
 ## 函数命名
 
