@@ -38,6 +38,8 @@ author:
     bio: Visual China Group Front End Engineer. Like cooking, photography, travel.
     url: https://zhanghe.org
 
+remote_theme: samesies/barber-jekyll
+
 # Pagination settings
 pagination:
   enabled: true
