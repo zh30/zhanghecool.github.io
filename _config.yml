@@ -39,7 +39,8 @@ author:
     url: https://zhanghe.org
 
 # remote_theme: samesies/barber-jekyll
-remote_theme: hertzZhang/yoyoyo
+remote_theme: wowthemesnet/mundana-theme-jekyll
+# remote_theme: hertzZhang/yoyoyo
 
 # Pagination settings
 pagination:
