@@ -3,7 +3,7 @@ layout: post
 title: "docker exec"
 date: 2019-11-06
 description:
-image: /assets/images/wxmp.jpg
+image: /assets/images/wxmp.png
 author: zhanghe
 tags:
   - React

@@ -2,13 +2,14 @@
 layout: post
 title: "函数命名"
 date: 2019-03-08
-description: 
-image: /assets/images/wxmp.jpg
+description:
+image: /assets/images/wxmp.png
 author: zhanghe
-tags: 
+tags:
   - Hot
   - Init
 ---
+
 ## 函数命名
 
 - "get…" —— 返回值，
@@ -24,13 +25,13 @@ function showPrimes(n) {
   for (let i = 2; i < n; i++) {
     if (!isPrime(i)) continue;
 
-    alert(i);  // a prime
+    alert(i); // a prime
   }
 }
 
 function isPrime(n) {
   for (let i = 2; i < n; i++) {
-    if ( n % i == 0) return false;
+    if (n % i == 0) return false;
   }
   return true;
 }

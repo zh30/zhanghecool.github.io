@@ -2,10 +2,10 @@
 layout: post
 title: "React Context Tutorial"
 date: 2019-07-08
-description: 
-image: /assets/images/wxmp.jpg
+description:
+image: /assets/images/wxmp.png
 author: zhanghe
-tags: 
+tags:
   - React
   - Context
   - Tutorial

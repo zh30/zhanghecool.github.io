@@ -1,11 +1,8 @@
 ---
-short_name: hertz
+short_name: zhanghe
 name: 张赫
 position: Front-end development engineer
 ---
-Visual China Group Front End Engineer. Like cooking, photography, travel.
-
-<!-- <div align=center><img width="100%" src="../assets/images/wxmp.png"/></div> -->
 
 # 张赫
 
@@ -20,8 +17,8 @@ Visual China Group Front End Engineer. Like cooking, photography, travel.
 ## 我的优势
 
 1. 6 年前端工作经验。熟练掌握 [JavaScript](http://developer.mozilla.org/en/JavaScript) 语言并不断学习其新特性。在任职期间先后主要负责 [shijue.me | 视觉 ME 设计社区](http://shijue.me/)、[vcg.com | 视觉中国官网](https://www.vcg.com/)、[zhaoluobo.com | 找萝卜](http://zhaoluobo.com/) 的前端开发工作。PC 端页面开发经验丰富。
-2. 熟悉 [React](https://reactjs.org/)、[Vue](https://vuejs.org/) 开源框架的使用，Vue 实战经验两年，有丰富的组件开发经验，有较深刻的认识以及实际项目经验；React 从 2017 年 10 月使用至今，目前主要负责 [VCG官网](https://www.vcg.com/) 的前端开发工作。
-3. 熟悉 [小程序](https://mp.weixin.qq.com) 开发，为 [VEER](https://www.veer.com/) 完成了 《Veer版权图片库》 这个小程序，并在不断更新新功能和优化中。
+2. 熟悉 [React](https://reactjs.org/)、[Vue](https://vuejs.org/) 开源框架的使用，Vue 实战经验两年，有丰富的组件开发经验，有较深刻的认识以及实际项目经验；React 从 2017 年 10 月使用至今，目前主要负责 [VCG 官网](https://www.vcg.com/) 的前端开发工作。
+3. 熟悉 [小程序](https://mp.weixin.qq.com) 开发，为 [VEER](https://www.veer.com/) 完成了 《Veer 版权图片库》 这个小程序，并在不断更新新功能和优化中。
 4. 熟悉 [W3C](https://www.w3.org/) 标准，熟悉页面架构和布局，对表现与数据分离、Web 语义化等有深刻理解，熟练使用 [less](http://lesscss.org/) 进行前端开发、了解 [bootstrap](https://getbootstrap.com/) 框架的使用。
 
 ## 工作经历
@@ -31,8 +28,8 @@ Visual China Group Front End Engineer. Like cooking, photography, travel.
 _2018.06 - 至今_
 
 1. 开发 [VEER](https://www.veer.com/) [下吧](https://xiaba.shijue.me/) PC 端网站。
-2. 开发 《Veer版权图片库》 [VEER](https://www.veer.com/) 小程序；
-3. 
+2. 开发 《Veer 版权图片库》 [VEER](https://www.veer.com/) 小程序；
+3.
 
 ### **前端开发工程师** 在 [北京商云科技发展有限公司](http://bizsaas.cn) 任职
 

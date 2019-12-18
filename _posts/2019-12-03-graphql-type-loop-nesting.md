@@ -3,7 +3,7 @@ layout: post
 title: "graphql type loop nesting"
 date: 2019-12-03
 description:
-image: /assets/images/wxmp.jpg
+image: /assets/images/wxmp.png
 author: zhanghe
 tags:
   - Graphql
