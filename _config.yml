@@ -53,7 +53,4 @@ plugins:
   - jekyll-remote-theme
 
 markdown: kramdown
-# theme: minima
-# remote_theme: samesies/barber-jekyll
-# remote_theme: wowthemesnet/mundana-theme-jekyll
 remote_theme: hertzZhang/yoyoyo
