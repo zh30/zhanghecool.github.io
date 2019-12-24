@@ -8,6 +8,9 @@ url: "https://zhanghe.org"
 lang: zh
 paginate: 10
 paginate_path: "/page/:num"
+metaAuthor: "张赫"
+blogName: "张赫的博客"
+appTitle: "张赫的博客"
 twitter_username: hertzZhang
 github_username: hertzZhang
 destination: "./gphome"
