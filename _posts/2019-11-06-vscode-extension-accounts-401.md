@@ -2,10 +2,10 @@
 layout: post
 title: "vsce publish, Failed request: (401)"
 date: 2019-11-15
-description: 
-image: /assets/images/wxmp.jpg
+description:
+image: /assets/images/wxmp.png
 author: zhanghe
-tags: 
+tags:
   - VS Code
   - access token
   - 401

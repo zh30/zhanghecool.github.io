@@ -1,73 +1,59 @@
-# Site/SEO settings
-email: zhangheorg@outlook.com
-baseurl: "/"
-permalink: /:year/:month/:day/:title/
-google_analytics:
-
-name: ZhangHe
 title: ZhangHe
-description: >
-  生活并无完美，与其让生活带来更多的沮丧与抱怨，不如坚持着一份信念，相信通过努力可以让生活变得更好。
-url: https://zhanghe.org
+repo: hertzZhang/hertzZhang.github.io
+email: zhanghelook@outlook.com
+description: "生活并无完美，与其让生活带来更多的沮丧与抱怨，不如坚持着一份信念，相信通过努力可以让生活变得更好。"
+excerpt_separator: "true"
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://zhanghe.org"
+lang: zh
+paginate: 10
+paginate_path: "/page/:num"
+metaAuthor: "张赫"
+blogName: "张赫的博客"
+appTitle: "张赫的博客"
 twitter_username: hertzZhang
-default_img: /assets/images/wxmp.png
-social:
-  - name: twitter
-    url: https://twitter.com/hertzZhang
-  - name: linkedin
-    url: https://www.linkedin.com/in/hertzzhang/
-  - name: github
-    url: https://github.com/hertzZhang
-  - name: codepen
-    url: https://codepen.io/zhanghe/
+github_username: hertzZhang
+destination: "./gphome"
+collections:
+  authors:
+    output: true
+  staff_members:
+    output: true
+    # people: true
 
-# Contact settings
-contact_img: /assets/images/wxmp.png
-formcarry: https://formcarry.com/s/5TGvj16vtfd
-
-# Disqus settings
-disqus: zhanghe
-
-# MailChimp settings
-mailchimp_action: https://zhanghe.us20.list-manage.com/subscribe/post?u=5b1e870a92bad64b8c102126a&amp;id=8842806757
-mailchimp_input: b_5b1e870a92bad64b8c102126a_8842806757
-
-# Author settings
 author:
-  - name: 张赫(ZhangHe)
-    bio: Visual China Group Front End Engineer. Like cooking, photography, travel.
-    url: https://zhanghe.org
+  twitter: hertzZhang
+
+baidu:
+  appid: 1612867930592980
+
+ga:
+  userid: UA-125234893-1
+
+twitter:
+  username: hertzZhang
+  card: summary_large_image
+  site: "@hertzZhang"
+
+defaults:
+  - scope:
+      path: "_authors"
+      type: "posts"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "zhanghe"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
 plugins:
   - jekyll-remote-theme
 
 markdown: kramdown
-# theme: minima
-# remote_theme: samesies/barber-jekyll
-# remote_theme: wowthemesnet/mundana-theme-jekyll
 remote_theme: hertzZhang/yoyoyo
-
-# Pagination settings
-pagination:
-  enabled: true
-  debug: false
-  per_page: 12
-  permalink: "/page/:num/"
-  title: ":title"
-  limit: 0
-  sort_field: "date"
-  sort_reverse: true
-autopages:
-  enabled: true
-  categories:
-    enabled: false
-  collections:
-    enabled: false
-  tags:
-    layouts:
-      - "tag.html"
-    title: "ZhangHe"
-    permalink: "/tag/:tag"
-    slugify:
-      mode: raw
-      cased: true
