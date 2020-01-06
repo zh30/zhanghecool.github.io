@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "在JS里你可能不需要循环"
-date: 2019-12-03
+date: 2020-01-05
 description: "了解如何移除循环并使用像 map、reduce 和 filter 这样的高阶函数。"
 image: /assets/images/wxmp.jpg
 author: zhanghe
