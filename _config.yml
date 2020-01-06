@@ -1,18 +1,18 @@
 title: ZhangHe
-repo: hertzZhang/hertzZhang.github.io
+repo: zhanghecool/zhanghecool.github.io
 email: zhanghelook@outlook.com
 description: "生活并无完美，与其让生活带来更多的沮丧与抱怨，不如坚持着一份信念，相信通过努力可以让生活变得更好。"
 excerpt_separator: "true"
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://zhanghe.org"
+url: "https://zhanghe.cool"
 lang: zh
 paginate: 10
 paginate_path: "/page/:num"
 metaAuthor: "张赫"
 blogName: "张赫的博客"
 appTitle: "张赫的博客"
-twitter_username: hertzZhang
-github_username: hertzZhang
+twitter_username: zhanghecool
+github_username: zhanghecool
 destination: "./gphome"
 collections:
   authors:
@@ -22,7 +22,7 @@ collections:
     # people: true
 
 author:
-  twitter: hertzZhang
+  twitter: zhanghecool
 
 baidu:
   appid: 1612867930592980
@@ -31,9 +31,9 @@ ga:
   userid: UA-125234893-1
 
 twitter:
-  username: hertzZhang
+  username: zhanghecool
   card: summary_large_image
-  site: "@hertzZhang"
+  site: "@zhanghecool"
 
 defaults:
   - scope:
@@ -56,4 +56,4 @@ plugins:
   - jekyll-remote-theme
 
 markdown: kramdown
-remote_theme: hertzZhang/yoyoyo
+remote_theme: zhanghecool/yoyoyo
