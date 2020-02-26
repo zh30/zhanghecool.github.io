@@ -7,7 +7,7 @@ themeColor: "#000000"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://zhanghe.cool"
 lang: zh
-paginate: 10
+paginate: 8
 paginate_path: "/page/:num"
 metaAuthor: "张赫"
 blogName: "张赫的博客"
