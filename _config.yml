@@ -1,9 +1,9 @@
 title: "张赫"
 repo: zhanghecool/zhanghecool.github.io
-email: zhanghelook@outlook.com
+email: zhanghecool@outlook.com
 description: "做最酷的事"
 excerpt_separator: "true"
-themeColor: "#000000"
+themeColor: "#ffffff"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://zhanghe.cool"
 lang: zh

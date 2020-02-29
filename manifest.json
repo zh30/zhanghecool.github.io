@@ -3,8 +3,8 @@
   "short_name": "张赫",
   "start_url": "/",
   "display": "fullscreen",
-  "background_color": "#000000",
-  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
   "icons": [
     {
       "src": "./assets/icon/android-icon-36x36.png",
