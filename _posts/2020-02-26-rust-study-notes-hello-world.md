@@ -3,7 +3,7 @@ layout: post
 title: "Rust 学习笔记 - hello world"
 date: 2020-02-28
 description: "万丈高楼平地起，盘龙卧虎高山齐。"
-image: /assets/images/rust-study-notes-yml.jpg
+image: /assets/images/rust-study-notes-hello.jpg
 author: zhanghe
 tags:
   - Rust
