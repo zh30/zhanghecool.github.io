@@ -3,13 +3,13 @@ layout: post
 title: "【工具】我的高效工具包"
 date: 2020-04-01
 description: "工欲善其事，必先利其器。不定时更新我的高效开发工具集。"
-image: /assets/images/toolkit.jpg
+image: /assets/images/optimization-git-speed-up.jpg
 author: zhanghe
 tags:
-  - Toolkit
+  - 优化
 ---
 
-## Git clone 速度慢
+## 给 Git clone 加速
 
 在国内使用 Git 克隆 GitHub 等网站的仓储的时候，总是速度太慢，该怎么办呢？
 

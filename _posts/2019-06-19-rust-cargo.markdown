@@ -3,7 +3,7 @@ layout: post
 title: "RUST cargo 使用命令"
 date: 2019-06-19
 description:
-image: /assets/images/wxmp.png
+image: /assets/images/default.jpg
 author: zhanghe
 tags:
   - Rust

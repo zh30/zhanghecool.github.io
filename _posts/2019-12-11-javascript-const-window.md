@@ -3,7 +3,7 @@ layout: post
 title: "let、const声明的变量不在顶层对象下"
 date: 2019-12-03
 description:
-image: /assets/images/wxmp.png
+image: /assets/images/default.jpg
 author: zhanghe
 tags:
   - Javascript

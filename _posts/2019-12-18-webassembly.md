@@ -3,7 +3,7 @@ layout: post
 title: "WebAssembly 概念"
 date: 2019-12-18
 description:
-image: /assets/images/wxmp.png
+image: /assets/images/default.jpg
 author: zhanghe
 ---
 
