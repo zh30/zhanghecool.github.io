@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rust 学习笔记-初识"
+title: "初识 Rust"
 date: 2020-02-26
 description: "全世界已有数百家公司在生产环境中使用 Rust，以达到快速、跨平台、低资源占用的目的。"
 image: /assets/images/rust-study-notes-yml.jpg
@@ -42,14 +42,14 @@ tags:
 
 - 使用 Rustup（推荐）
 
-```bash
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-```
+  ```bash
+  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+  ```
 
 - 使用 Brew
 
-```bash
-brew install rust
-```
+  ```bash
+  brew install rust
+  ```
 
 - 更多安装方式请点击：[链接](https://forge.rust-lang.org/infra/other-installation-methods.html)

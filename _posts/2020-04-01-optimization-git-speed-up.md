@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【工具优化】加速 Git clone 速度"
+title: "【小技巧】加速 Git clone 速度"
 date: 2020-04-01
 description: "在国内使用 Git 克隆 GitHub 等网站的仓储的时候，总是速度太慢，该怎么办呢？"
 image: /assets/images/optimization-git-speed-up.jpg
