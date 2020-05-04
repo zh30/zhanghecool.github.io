@@ -4,7 +4,7 @@ email: zhanghecool@outlook.com
 description: "做最酷的事"
 excerpt_separator: "true"
 themeColor: "#ffffff"
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # 一级目录为空。多级的时候填写, e.g. /blog
 url: "https://zhanghe.cool"
 lang: zh
 paginate: 8
