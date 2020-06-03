@@ -3,7 +3,7 @@ layout: post
 title: "函数命名"
 date: 2019-03-08
 description:
-image: /assets/images/default.jpg
+image: https://cdn.jsdelivr.net/gh/zhanghecool/zhanghecool.github.io/assets/images/default.jpg
 author: zhanghe
 tags:
   - Hot

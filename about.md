@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-previewimg: /yoyoyo/assets/images/default.jpg
+previewimg: https://cdn.jsdelivr.net/gh/zhanghecool/zhanghecool.github.io/assets/images/default.jpg
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)

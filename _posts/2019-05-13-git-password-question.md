@@ -3,7 +3,7 @@ layout: post
 title: "解决git操作时强制输入用户名密码的问题"
 date: 2019-05-13
 description:
-image: /assets/images/default.jpg
+image: https://cdn.jsdelivr.net/gh/zhanghecool/zhanghecool.github.io/assets/images/default.jpg
 author: zhanghe
 tags:
   - Git

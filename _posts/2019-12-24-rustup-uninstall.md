@@ -3,7 +3,7 @@ layout: post
 title: "卸载 rustup"
 date: 2019-12-18
 description: rustup卸载的简单方法
-image: /assets/images/default.jpg
+image: https://cdn.jsdelivr.net/gh/zhanghecool/zhanghecool.github.io/assets/images/default.jpg
 author: zhanghe
 ---
 

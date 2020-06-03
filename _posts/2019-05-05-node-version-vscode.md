@@ -3,7 +3,7 @@ layout: post
 title: "VS Code 在NVM下的Nodejs版本控制问题"
 date: 2019-05-05
 description:
-image: /assets/images/default.jpg
+image: https://cdn.jsdelivr.net/gh/zhanghecool/zhanghecool.github.io/assets/images/default.jpg
 author: zhanghe
 tags:
   - Node

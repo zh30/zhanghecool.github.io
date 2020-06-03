@@ -3,7 +3,7 @@ layout: post
 title: "【号外】用快捷键提高工作效率"
 date: 2020-05-19
 description: "以提高自己工作效率为目的，将工作中常用到的工具或者软件的快捷键总结下来，列个清单方便以后查找。"
-image: /assets/images/shortcuts.jpg
+image: https://cdn.jsdelivr.net/gh/zhanghecool/zhanghecool.github.io/assets/images/shortcuts.jpg
 author: zhanghe
 tags:
   - 效率

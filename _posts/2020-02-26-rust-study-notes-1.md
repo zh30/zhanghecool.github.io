@@ -3,7 +3,7 @@ layout: post
 title: "初识 Rust"
 date: 2020-02-26
 description: "全世界已有数百家公司在生产环境中使用 Rust，以达到快速、跨平台、低资源占用的目的。"
-image: /assets/images/rust-study-notes-yml.jpg
+image: https://cdn.jsdelivr.net/gh/zhanghecool/zhanghecool.github.io/assets/images/rust-study-notes-yml.jpg
 author: zhanghe
 tags:
   - Rust

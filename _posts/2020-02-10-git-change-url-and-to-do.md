@@ -3,7 +3,7 @@ layout: post
 title: "【小知识】更改远程仓库的 URL"
 date: 2020-02-10
 description: "在你更改了远程仓库的 URL 后，本地老代码该怎么办？"
-image: /assets/images/default.jpg
+image: https://cdn.jsdelivr.net/gh/zhanghecool/zhanghecool.github.io/assets/images/default.jpg
 author: zhanghe
 tags:
   - Tips

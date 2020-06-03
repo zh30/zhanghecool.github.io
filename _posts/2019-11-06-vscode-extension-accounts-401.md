@@ -3,7 +3,7 @@ layout: post
 title: "vsce publish, Failed request: (401)"
 date: 2019-11-15
 description:
-image: /assets/images/default.jpg
+image: https://cdn.jsdelivr.net/gh/zhanghecool/zhanghecool.github.io/assets/images/default.jpg
 author: zhanghe
 tags:
   - VS Code
