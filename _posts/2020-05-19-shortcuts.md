@@ -37,4 +37,4 @@ tags:
   gfli
   ```
 
-如果你也想和我一样 `懒`，赶紧 [点击我](https://shortcuts.zhanghe.cool/) 查看快捷键集合吧。
+如果你也想和我一样 `懒`，赶紧 [点击我](https://shortcuts.zhanghe.cool/) 查看快捷键集合吧。^~^
