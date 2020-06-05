@@ -3,7 +3,7 @@ layout: post
 title: "CSS 中的暗黑模式"
 date: 2020-06-05
 description: "现在，越来越多的设备开始支持暗黑模式。在未来，我们不可避免的要让我们的网站也支持它。在本文中，我将向你介绍一些技巧，让你的网站也启用暗黑模式。"
-image: /assets/images/links.jpg
+image: https://cdn.jsdelivr.net/gh/zhanghecool/zhanghecool.github.io/assets/images/dark-mode.jpg
 author: zhanghe
 tags:
   - CSS
