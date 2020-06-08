@@ -9,7 +9,8 @@ tags:
   - CSS
 ---
 
-## 点击进入 [我的收藏夹](https://links.zhanghe.cool/)
+## Mac 10.13.6 下载链接
+https://itunes.apple.com/cn/app/macos-high-sierra/id1246284741?mt=12
 
 每个人都有自己的浏览器收藏夹，它里面装着的可能是常去的网站，爱听的音乐，或者爱看的综艺等等。
 
