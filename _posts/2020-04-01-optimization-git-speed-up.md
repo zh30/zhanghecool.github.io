@@ -21,3 +21,14 @@ tags:
   [http "https://pigweed.googlesource.com"]
     proxy = socks5://127.0.0.1:1086
   ```
+
+## 给 GitHub 静态资源找到家
+
+把一下内容添加到 Hosts 里面。
+
+```bash
+199.232.68.133 raw.githubusercontent.com
+199.232.68.133 user-images.githubusercontent.com
+199.232.68.133 avatars2.githubusercontent.com
+199.232.68.133 avatars1.githubusercontent.com
+```
