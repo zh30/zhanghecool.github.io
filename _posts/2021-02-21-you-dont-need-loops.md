@@ -151,5 +151,3 @@ if (!isZeroFree) {
   console.log("0 present in array");
 }
 ```
-
-感谢阅读。
